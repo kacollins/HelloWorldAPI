@@ -1,6 +1,6 @@
 # HelloWorldAPI
 
-This is the simplest API possible! Run this project in Visual Studio, then use the following code to consume the API (in LINQPad, for example):
+This is the simplest (minimal) API possible! Run this project in Visual Studio, then use Postman or the following code to consume the API (in LINQPad, for example):
 
 ```
 using System.Net.Http;
